@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+    color: cornflowerblue;
+}
+.titulo{
+    text-align: center;
+    padding: 15px;
+    margin: 5px;
+    border: 10px;
+    background-color: aliceblue;
+}
+
+.nom{
+    background-color:  rgb(223, 223, 223) ;
+    color: blue;
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    font-weight: 800;
+    border-radius: 10px;  
+}
